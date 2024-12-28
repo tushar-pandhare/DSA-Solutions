@@ -1,0 +1,22 @@
+Class Solution {
+    // Function to find the minimum element in the given BST.
+    int minValue(Node root) {
+        
+        //APPROACH 1
+        
+    //     int ans=0;
+    //   while(root != null){
+    //       ans = root.data;
+    //       root = root.left;
+    //   }
+    //   return ans;
+    
+     //APPROACH 2
+     
+    if(root.left == null){
+        return root.data;
+    }
+    
+     return  minValue(root.left);
+    }
+}
