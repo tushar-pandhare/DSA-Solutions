@@ -1,0 +1,45 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class productExceptSelf
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sc=new Scanner(System.in);
+		int t=sc.nextInt();
+		while(t-->0){
+		    int n=sc.nextInt();
+		    int[] arr=new int[n];
+		    for(int i=0;i<n;i++){
+		        arr[i]=sc.nextInt();
+		    }
+		    int[] prefixArray=new int[n];
+		    int[] suffixArray=new int[n];
+		    
+		    // prefix Array
+		    prefixArray[0]=1;
+		    for(int i=0;i<n-1;i++){
+		        prefixArray[i+1]=prefixArray[i]*arr[i];
+		    }
+		   
+		   // suffix Array
+		   suffixArray[n-1]=1;
+		   for(int i=n-1;i>0;i--){
+		       suffixArray[i-1]=suffixArray[i]*arr[i];
+		   }
+		   
+		   //Answer Array
+		   int[] res=new int[n];
+		   for(int i=0;i<n;i++){
+		       res[i]=suffixArray[i]*prefixArray[i];
+		   }
+		   
+		   //Print the Array
+		   for(int num:res){
+		       System.out.print(num+" ");
+		   }
+		   System.out.println();
+		}
+	}
+}
