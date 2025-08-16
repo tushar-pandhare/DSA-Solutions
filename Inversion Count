@@ -1,0 +1,49 @@
+import java.util.*;
+class inversionCountClass{
+    static long count;
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        int t=sc.nextInt();
+        while(t-->0){
+            int n=sc.nextInt();
+            int[] arr=new int[n];
+            for(int i=0;i<n;i++){
+                arr[i]=sc.nextInt();
+            }
+            count=0;
+            inversionCount(arr);
+            System.out.println(count);
+        }
+        sc.close();
+    }
+    public static void inversionCount(int[] arr){
+        devide(arr,0,arr.length-1);
+    }
+    public static void devide(int[] arr,int start,int end){
+        if(start<end){
+            int mid=start+(end-start)/2;
+            devide(arr,start,mid);
+            devide(arr,mid+1,end);
+            conquer(arr,start,mid,end);
+        }
+    }
+    public static void conquer(int[] arr,int start,int mid,int end){
+        int n1=mid-start+1;
+        int n2=end-mid;
+        int[] left=new int[n1];
+        int[] right=new int[n2];
+        for(int i=0;i<n1;i++) left[i]=arr[start+i];
+        for(int j=0;j<n2;j++) right[j]=arr[mid+1+j];
+        int i=0,j=0,k=start;
+        while(i<n1&&j<n2){
+            if(left[i]<=right[j]){
+                arr[k++]=left[i++];
+            }else{
+                arr[k++]=right[j++];
+                count+=(n1-i);
+            }
+        }
+        while(i<n1) arr[k++]=left[i++];
+        while(j<n2) arr[k++]=right[j++];
+    }
+}
