@@ -1,0 +1,29 @@
+class Solution {
+    public int minNumber(int[] nums1, int[] nums2) {
+        HashSet<Integer>hs=new HashSet<>();
+        int smallestOne=Integer.MAX_VALUE;
+        int smallestSec=Integer.MAX_VALUE;
+        for(int num:nums1){
+            smallestOne=Math.min(smallestOne,num);
+            hs.add(num);
+        }
+        int res=Integer.MAX_VALUE;
+        for(int num:nums2){
+            if(hs.contains(num)){
+               res= Math.min(res,num);
+            }
+            smallestSec=Math.min(smallestSec,num);
+            hs.add(num);
+        }
+        StringBuilder sb=new StringBuilder();
+        if(smallestOne<smallestSec){
+            sb.append(Integer.toString(smallestOne));
+            sb.append(Integer.toString(smallestSec));
+        }
+        else{
+            sb.append(Integer.toString(smallestSec));
+            sb.append(Integer.toString(smallestOne));
+        }
+        return Integer.parseInt(sb.toString()) > res ? res : Integer.parseInt(sb.toString());
+    }
+}
