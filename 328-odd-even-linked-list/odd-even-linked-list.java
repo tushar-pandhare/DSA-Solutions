@@ -10,31 +10,29 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        Set<ListNode> even=new LinkedHashSet<>();
-        Set<ListNode> odd=new LinkedHashSet<>();
-        ListNode dummy=new ListNode(-1),temp=head;
-        dummy.next=head;
+        ListNode dummyEven = new ListNode(-1);
+        ListNode dummyOdd = new ListNode(-1);
+        ListNode evenPtr = dummyEven,oddPtr = dummyOdd;
+
         int count=0;
+        ListNode temp=head;
+
         while(temp!=null){
-            if(count%2==0){
-                even.add(temp);
+            ListNode front = temp.next;
+            temp.next = null;
+            if(count%2 == 0){
+                evenPtr.next = temp;
+                evenPtr = evenPtr.next;
             }
             else{
-                odd.add(temp);
+                oddPtr.next = temp;
+                oddPtr = oddPtr.next;
             }
-            temp=temp.next;
             count++;
+            temp = front;
         }
-        ListNode dummyPtr= dummy;
-        for(ListNode newNode : even){
-            dummyPtr.next = newNode;
-            dummyPtr=dummyPtr.next;
-        }
-        for(ListNode newNode : odd){
-            dummyPtr.next = newNode;
-            dummyPtr=dummyPtr.next;
-        }
-        dummyPtr.next=null;
-        return dummy.next;
+        evenPtr.next=dummyOdd.next;
+        oddPtr.next=null;
+        return dummyEven.next;
     }
 }
