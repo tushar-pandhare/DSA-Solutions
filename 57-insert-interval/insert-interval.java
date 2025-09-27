@@ -1,10 +1,8 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
-        
         List<int[]> allRanges=new ArrayList<>(Arrays.asList(intervals));
         allRanges.add(newInterval);
         Collections.sort(allRanges, (a,b)->a[0]-b[0]);
-
         List<int[]> ans=new ArrayList<>();
         int[] curr=allRanges.get(0);
 
