@@ -4,11 +4,11 @@ class Solution {
         HashSet<Integer> set=new HashSet<>();
         int idx=0;
         for(int num: nums){
-            if(set.contains(num)){
-                ans[idx]=num;
-                idx++;
+            if(!set.add(num)){
+                ans[idx++]=num;
             }
-            set.add(num);
+            
+            if(idx==2) return ans;
         }
         return ans;
     }
