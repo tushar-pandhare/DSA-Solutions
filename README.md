@@ -64,4 +64,12 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
