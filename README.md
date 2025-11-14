@@ -45,3 +45,23 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ---
 
 **Happy Coding!** 💻✨
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+<!---LeetCode Topics End-->
