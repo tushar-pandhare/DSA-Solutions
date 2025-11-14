@@ -72,4 +72,12 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+## Array
+|  |
+| ------- |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+## Greedy
+|  |
+| ------- |
+| [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 <!---LeetCode Topics End-->
