@@ -45,19 +45,3 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ---
 
 **Happy Coding!** 💻✨
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [2625-increment-submatrices-by-one](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
-## Matrix
-|  |
-| ------- |
-| [2625-increment-submatrices-by-one](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
-## Prefix Sum
-|  |
-| ------- |
-| [2625-increment-submatrices-by-one](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2625-increment-submatrices-by-one) |
-<!---LeetCode Topics End-->
