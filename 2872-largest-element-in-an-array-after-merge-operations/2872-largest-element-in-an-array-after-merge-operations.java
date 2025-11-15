@@ -15,7 +15,6 @@ class Solution {
             maxi=Math.max(maxi,temp);
             right--;
         }
-        // maxi=Math.max(maxi,nums[0]);
         return maxi;
     }
 }
