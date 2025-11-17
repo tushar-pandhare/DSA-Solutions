@@ -67,6 +67,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ## Math
 |  |
 | ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Simulation
 |  |
@@ -81,4 +82,8 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+## String
+|  |
+| ------- |
+| [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 <!---LeetCode Topics End-->
