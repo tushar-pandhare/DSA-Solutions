@@ -78,6 +78,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
@@ -96,5 +97,6 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ## Sorting
 |  |
 | ------- |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
