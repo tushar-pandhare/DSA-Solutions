@@ -77,6 +77,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -99,4 +100,12 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
