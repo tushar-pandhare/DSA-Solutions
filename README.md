@@ -69,6 +69,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | ------- |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
@@ -83,6 +84,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Greedy
 |  |
 | ------- |
