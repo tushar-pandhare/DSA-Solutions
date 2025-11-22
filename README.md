@@ -67,6 +67,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -79,6 +80,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
