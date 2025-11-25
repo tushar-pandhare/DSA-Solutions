@@ -94,6 +94,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Hash Table
 |  |
@@ -112,4 +113,12 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
