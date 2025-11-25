@@ -81,6 +81,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0575-distribute-candies](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0575-distribute-candies) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -101,6 +102,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0575-distribute-candies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Sorting
 |  |
