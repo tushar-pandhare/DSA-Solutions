@@ -6,11 +6,10 @@ class Solution {
     }
 
     public void solve(List<String> ans,StringBuilder sb,int n, int open, int close){
-        if(open==n && close==n){
+        if(open+close==n*2){
             ans.add(sb.toString());
             return;
         }
-
         if(open<n){
             sb.append('(');
             solve(ans,sb,n,open+1,close);
