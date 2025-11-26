@@ -86,6 +86,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -127,4 +128,12 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 <!---LeetCode Topics End-->
