@@ -70,6 +70,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2525-categorize-box-according-to-criteria](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -138,4 +139,8 @@ This is a **personal practice repository**, so the main goal is **learning and c
 |  |
 | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
