@@ -93,6 +93,7 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2872-largest-element-in-an-array-after-merge-operations](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2872-largest-element-in-an-array-after-merge-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3606-coupon-code-validator](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 ## Greedy
 |  |
 | ------- |
@@ -103,17 +104,20 @@ This is a **personal practice repository**, so the main goal is **learning and c
 | ------- |
 | [0022-generate-parentheses](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0022-generate-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [3606-coupon-code-validator](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0575-distribute-candies) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3606-coupon-code-validator](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 ## Sorting
 |  |
 | ------- |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3606-coupon-code-validator](https://github.com/tushar-pandhare/DSA-Solutions/tree/master/3606-coupon-code-validator) |
 ## Design
 |  |
 | ------- |
